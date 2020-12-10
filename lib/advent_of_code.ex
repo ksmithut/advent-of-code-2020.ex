@@ -23,10 +23,10 @@ defmodule AdventOfCode do
       @doc \~S\"""
       ## Examples
 
-          iex> AdventOfCode.Day#{string_day}.part1("hello")
+          iex> part1("hello")
           "hello"
 
-          iex> AdventOfCode.Day#{string_day}.part2("hello")
+          iex> part2("hello")
           "hello"
 
       \"""
