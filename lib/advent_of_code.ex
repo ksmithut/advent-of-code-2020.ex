@@ -26,14 +26,18 @@ defmodule AdventOfCode do
           iex> part1("hello")
           "hello"
 
-          iex> part2("hello")
-          "hello"
-
       \"""
       def part1(input) do
         input
       end
 
+      @doc \~S\"""
+      ## Examples
+
+          iex> part2("hello")
+          "hello"
+
+      \"""
       def part2(input) do
         input
       end
