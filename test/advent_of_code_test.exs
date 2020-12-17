@@ -16,5 +16,6 @@ defmodule AdventOfCodeTest do
   # doctest AdventOfCode.Day13, import: true
   # doctest AdventOfCode.Day14, import: true
   # doctest AdventOfCode.Day15, import: true
-  doctest AdventOfCode.Day16, import: true
+  # doctest AdventOfCode.Day16, import: true
+  doctest AdventOfCode.Day17, import: true
 end
